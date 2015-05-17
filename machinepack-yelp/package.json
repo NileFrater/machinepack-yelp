@@ -1,0 +1,59 @@
+{
+  "name": "machinepack-yelp",
+  "version": "0.1.0",
+  "description": "Work with yelp 2.0 API.",
+  "scripts": {
+    "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
+  },
+  "keywords": [
+    "Yelp",
+    "Yelp 2.0 API",
+
+    "machines",
+    "machinepack"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "machine": "^3.0.0",
+    "yelp": "^0.2.0"
+  },
+  "devDependencies": {
+    "test-machinepack-mocha": "^0.2.2"
+  },
+  "machinepack": {
+    "friendlyName": "Yelp",
+    "machineDir": "machines/",
+    "machines": [
+      "search-api",
+      "search-business"
+    ],
+    "testsUrl": "https://travis-ci.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "gitHead": "7316801ac1cdcd697fcb205ae5cf7463799b6f6d",
+  "_id": "machinepack-yelp@0.1.0",
+  "_shasum": "de88ad02f89fa728a610cb95680205cb64d732ac",
+  "_from": "machinepack-yelp@",
+  "_npmVersion": "2.7.4",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "name": "facultymatt",
+    "email": "matt@facultycreative.com"
+  },
+  "dist": {
+    "shasum": "de88ad02f89fa728a610cb95680205cb64d732ac",
+    "tarball": "http://registry.npmjs.org/machinepack-yelp/-/machinepack-yelp-0.1.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "johntom",
+      "email": "jrt@gtz.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/machinepack-yelp/-/machinepack-yelp-0.1.0.tgz"
+}
