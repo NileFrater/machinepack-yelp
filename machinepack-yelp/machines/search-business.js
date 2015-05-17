@@ -5,22 +5,22 @@ module.exports = {
 
     inputs: {
         consumer_key: {
-            example: '-DVCvqO6FeNd72pe08TofQ',
+            example: '-XXXxxXX6FeNd72pe08TofQ',
             description: 'consumer-key',
             required: true
         },
         consumer_secret: {
-            example: 'SsqazNjK3JXYkHlvfo5gmqQvrWw',
+            example: 'SxxxxxxxXXXXfo5gmqQvrWw',
             description: 'consumer-secret',
             required: true
         },
         token: {
-            example: 'hi1Z8J0PFzo-c80sC6KIx-ZjneaaNYw2',
+            example: 'xxxxxxXXXzo-c80sC6KIx-ZxxxxaNYw2',
             description: 'API token for access',
             required: true
         },
         token_secret: {
-            example: 'LVwYLQ4NO4XOWwI7NWPeU5DwiEI',
+            example: 'LVwYCXXXXXXXXxxxwiEI',
             description: 'API token-secret for access',
             required: true
         },
