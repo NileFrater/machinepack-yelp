@@ -11,7 +11,7 @@ Work with yelp 2.0 api.
 ## Installation &nbsp; [![NPM version](https://github.com/johntom/machinepack-yelp.svg)](https://github.com/johntom/machinepack-yelp) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-zendesk.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-yelp)
 
 ```sh
-$ npm install machinepack-zendesk
+$ npm install machinepack-yelp
 ```
 
 ## Usage
