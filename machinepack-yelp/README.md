@@ -3,12 +3,12 @@
   machinepack-zendesk
 </h1>
 
-### [Docs](http://node-machine.org/machinepack-zendesk) &nbsp; [Browse other machines](http://node-machine.org/machinepacks) &nbsp;  [FAQ](http://node-machine.org/implementing/FAQ)  &nbsp;  [Newsgroup](https://groups.google.com/forum/?hl=en#!forum/node-machine)
+### [Docs](http://node-machine.org/machinepack-yelp) &nbsp; [Browse other machines](http://node-machine.org/machinepacks) &nbsp;  [FAQ](http://node-machine.org/implementing/FAQ)  &nbsp;  [Newsgroup](https://groups.google.com/forum/?hl=en#!forum/node-machine)
 
 Work with yelp 2.0 api.
 
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-zendesk.svg)](http://badge.fury.io/js/machinepack-zendesk) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-zendesk.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-zendesk)
+## Installation &nbsp; [![NPM version](https://github.com/johntom/machinepack-yelp.svg)](https://github.com/johntom/machinepack-yelp) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-zendesk.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-yelp)
 
 ```sh
 $ npm install machinepack-zendesk
@@ -16,7 +16,7 @@ $ npm install machinepack-zendesk
 
 ## Usage
 
-For the latest usage documentation, version information, and test status of this module, see <a href="http://node-machine.org/machinepack-zendesk" title="Work with zendesk. (for node.js)">http://node-machine.org/machinepack-zendesk</a>.  The generated manpages for each machine contain a complete reference of all expected inputs, possible exit states, and example return values.  If you need more help, or find a bug, jump into [Gitter](https://gitter.im/node-machine/general) or leave a message in the project [newsgroup](https://groups.google.com/forum/?hl=en#!forum/node-machine).
+For the latest usage documentation, version information, and test status of this module, see <a href="http://node-machine.org/machinepack-yelp" title="Work with yelp. (for node.js)">http://node-machine.org/machinepack-yelp</a>.  The generated manpages for each machine contain a complete reference of all expected inputs, possible exit states, and example return values.  If you need more help, or find a bug, jump into [Gitter](https://gitter.im/node-machine/general) or leave a message in the project [newsgroup](https://groups.google.com/forum/?hl=en#!forum/node-machine).
 
 ## About  &nbsp; [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/node-machine/general?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
